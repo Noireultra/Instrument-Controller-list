@@ -1,0 +1,87 @@
+* {
+    scroll-behavior: smooth;
+}
+.shortcut1 {
+    background-color: white;
+    width: 32.5%;
+    height: 50px;
+    font-size: 50%;
+}
+.instrument {
+    width: 30%;
+    margin-right: 30%;
+}
+.info {
+    width: 35%;
+    height: 50px;
+}
+h1 {
+    font-size: 0.6cm;
+    color: white;
+}
+h01 {
+    color: white;
+    font-size: 1cm;
+    background-image: url(https://thumb.ac-illust.com/30/30ed0114a2a042aedb9f550e4af62f9e_t.jpeg);
+    position: fixed;
+    margin-left: 0cm;
+    margin-right: 0cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 1cm;
+    background-size: cover;
+}
+h2 {
+    font-size: 0.6cm;
+    color: white;
+}
+h3, h0 {
+    font-size: 0.5cm;
+    color: white;
+}
+h4 {
+    color: white;
+    font-size: 0.7cm
+}
+p1, p3, p03, p04 {
+    font-size: 0.6cm;
+    font-weight: bold;
+    color: white;
+}
+p2, p0, p4, p5, p6 {
+    font-size: 0.5cm;
+    color: white;
+}
+.images {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+}
+.images2 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: gray;
+    width: 30%
+}
+.images3 {
+    width: 30%;
+}
+.images1 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: gray;
+    width: 70%;
+}
+body {
+ background-color: #000000;
+}
+a:any-link {
+    color: red;
+}
+a:hover {
+    color: rgb(255, 112, 112);
+}
